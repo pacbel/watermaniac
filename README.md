@@ -2,19 +2,16 @@
 
 ![Screenshot](/images/watermaniac.jpeg)
 
-We may not think of it, but water can have a large impact on our overall and day-to-day health. As I’m sure you may know, it is important to hydrate regularly in order to preserve adequate mental and physical functions. Many of us do not pay attention to how much water we are drinking and how this can be affecting how we feel and what is happening inside of our bodies.
+Podemos não pensar nisso, mas a água pode ter um grande impacto em nossa saúde geral e diária. Tenho certeza de que você deve saber que é importante se hidratar regularmente para preservar as funções mentais e físicas adequadas. Muitos de nós não prestamos atenção em quanta água estamos bebendo e como isso pode estar afetando como nos sentimos e o que está acontecendo dentro de nossos corpos.
 
-Most of us ' do' drink water but... do you drink enough? Do you want to make sure you are doing your best to stay healthy? It is time to start tracking how much water you have drunk every day.
+A maioria de nós 'bebe' água, mas ... você bebe o suficiente? Você quer ter certeza de que está fazendo o melhor para se manter saudável? É hora de começar a monitorar quanta água você bebe todos os dias.
 
-Watermaniac is an app that will help you track the amount of water you drink.
+Watermaniac é um aplicativo que o ajudará a controlar a quantidade de água que você bebe.
 
-Features:
-- Set a daily goal of water
-- A history of all drink you took (and logged)
-- Customizable notifications to remind you about drinking
+Características:
+- Defina uma meta diária de água
+- Um histórico de todas as bebidas que você tomou (e registrou)
+- Notificações personalizáveis para lembrá-lo de beber água
 
-It is simple, lightweight and built with Google Flutter. Only core functionalities.
+É simples, leve e construído com o Google Flutter. Apenas funcionalidades básicas.
 
-## Getting Started
-
-It was developed during Flutter beta and has not been migraetd to the latest version yet.
